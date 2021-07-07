@@ -3,7 +3,7 @@
 新用户第一次想设置主号拉邀请就先分享到QQ查看邀请码 inviter就是
 运行脚本查看邀请码
 #自定义邀请码变量 
-export joyinviterPin="s3ldo8BY1bhxmINVCw9bhA" //s3ldo8BY1bhxmINVCw9bhA
+export joyinviterPin="3I9i2bhenzGHofYCIloYOg" //s3ldo8BY1bhxmINVCw9bhA
 
 ====================
 新手上路勿黑勿喷
